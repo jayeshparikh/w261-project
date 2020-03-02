@@ -1,5 +1,5 @@
 # Databricks notebook source
-# MAGIC %md # Airline delays 
+# MAGIC %md # Airline delay
 # MAGIC ## Bureau of Transportation Statistics
 # MAGIC https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp   
 # MAGIC https://www.bts.gov/topics/airlines-and-airports/understanding-reporting-causes-flight-delays-and-cancellations
