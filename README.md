@@ -4,7 +4,7 @@ This repository contains group 25's notebooks and ancillary code for the Spring 
 
 Team 25 Members:
 + Tucker Anderson 
-+ Chandra Bikkanur
++ Chandra Shekar Bikkanur
 + Jayesh Parikh
 + Adam Sohn
 
